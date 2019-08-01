@@ -1268,7 +1268,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .posts-expand {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 @media (max-width: 767px) {
   .posts-expand {
@@ -1376,7 +1376,7 @@ pre .javascript .function {
   margin-left: 20px;
 }
 .posts-collapse .collection-title small {
-  color: #bbb;
+  color: rgba(187,187,187,0.733);
   margin-left: 5px;
 }
 .posts-collapse .collection-title::before {
@@ -1388,7 +1388,7 @@ pre .javascript .function {
   margin-top: -4px;
   width: 8px;
   height: 8px;
-  background: #bbb;
+  background: rgba(187,187,187,0.733);
   border-radius: 50%;
 }
 .posts-collapse .post {
@@ -1410,7 +1410,7 @@ pre .javascript .function {
   width: 6px;
   height: 6px;
   margin-left: -4px;
-  background: #bbb;
+  background: rgba(187,187,187,0.733);
   border-radius: 50%;
   border: 1px solid #fff;
   transition-duration: 0.2s;
@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #777038;
+  background: #ff20b0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2400,7 +2400,7 @@ pre .javascript .function {
   margin: 5px 10px;
 }
 .category-all-page .category-list-count {
-  color: #bbb;
+  color: rgba(187,187,187,0.733);
 }
 .category-all-page .category-list-count:before {
   display: inline;
@@ -2815,7 +2815,7 @@ pre .javascript .function {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background-color: #bbb;
+  background-color: rgba(187,187,187,0.733);
 }
 .btn-bar {
   background-color: #fff;

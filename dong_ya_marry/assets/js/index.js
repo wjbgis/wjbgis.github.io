@@ -60,7 +60,7 @@ function TiMu() {
 				addClass(document.querySelectorAll(".entrance-bottom-frame-line")[timu_id], active)
 				removeClass(document.querySelectorAll(".entrance-bottom-frame-line")[timu_id - 1], active)
 			} else {
-				alert("最后一道题啦")
+				alert("恭喜东哥顺利过关！❤祝东哥小寇百年好合，幸福美满❤")
 			}
 		}
 	}
